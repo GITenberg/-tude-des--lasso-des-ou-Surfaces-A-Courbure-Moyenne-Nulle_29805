@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34189'
     url: http://www.gutenberg.org/2009/agents/34189
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29805#-tude-des--lasso-des-ou-Surfaces-A-Courbure-Moyenne-Nulle
 gutenberg_bookshelf:
 - Mathematics
 - FR Sciences et Techniques
